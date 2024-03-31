@@ -1,0 +1,1 @@
+import{M as o}from"./index.7045c2b8.js";import{j as e,am as r}from"./vendor.bd035ca5.js";const{Title:t}=r,a=[{title:"Tab-1",key:1},{title:"Tab-2",key:2},{title:"Tab-3",key:3}],i=()=>e("div",{children:e(o,{options:a,defaultSelectedKeys:[1],header:e(t,{level:4,children:"Costom Header"}),footer:e(t,{level:5,children:"Costom Footer"})})});export{i as default};
